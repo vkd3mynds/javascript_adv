@@ -1,0 +1,20 @@
+{
+  "name": "javascript_adv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkd3mynds/javascript_adv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkd3mynds/javascript_adv/issues"
+  },
+  "homepage": "https://github.com/vkd3mynds/javascript_adv#readme"
+}
